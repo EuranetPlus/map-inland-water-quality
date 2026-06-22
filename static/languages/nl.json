@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Is de waterkwaliteit van onze binnenwateren goed genoeg om in te zwemmen?",
+  "subtitle": "In Oostenrijk, Finland, Denemarken, Luxemburg en Duitsland werd minstens 90 procent van de binnenwateren – meestal meren – als 'uitstekend' geclassificeerd, maar in Slovenië, Portugal, Polen, Kroatië en Spanje lag dit percentage onder de 60 procent.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Sommige landen scoren mogelijk lager op 'uitstekende' kwaliteit, terwijl ze toch water van 'goede' kwaliteit hebben.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europees Milieuagentschap (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
