@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Elég jók-e a belvizeink minősége a fürdéshez?",
+  "subtitle": "Ausztriában, Finnországban, Dániában, Luxemburgban és Németországban a belvízi fürdővizek legalább 90 százaléka – jellemzően tavak – „kiváló” minősítést kapott, de Szlovéniában, Portugáliában, Lengyelországban, Horvátországban és Spanyolországban ez az arány kevesebb mint 60 százalék volt.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Néhány országban alacsonyabb pontszámok lehetnek a „kiváló” minőség tekintetében, miközben a vizek minősége továbbra is „jó”.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Európai Környezetvédelmi Ügynökség (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
