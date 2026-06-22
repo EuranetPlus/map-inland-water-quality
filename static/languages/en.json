@@ -1,13 +1,11 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "Is the quality of our inland waters good enough for swimming?",
+  "subtitle": "In Austria, Finland, Denmark, Luxembourg and Germany, at least 90 per cent of inland bathing waters – typically lakes – were classified as 'excellent', but in Slovenia, Portugal, Poland, Croatia and Spain, the figure was less than 60 per cent.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Some countries may have lower scores for ‘excellent’ quality, whilst still having ‘good’ quality waters.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "European Environment Agency (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
   "tooltipExtraInfoLabel": "Click here"
 }
